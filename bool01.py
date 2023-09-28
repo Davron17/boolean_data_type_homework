@@ -7,5 +7,8 @@ def main(a,b):
     Returns:
         bool
     """
-    # Write your code here
-    return 
+    # Write your code here 
+    return a==b
+
+print(main(1,1))
+    
